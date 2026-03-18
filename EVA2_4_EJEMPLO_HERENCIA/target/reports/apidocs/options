@@ -1,0 +1,23 @@
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'D:/Semestre 2/POO/UNIDAD 2/EVA2_4_EJEMPLO_HERENCIA/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Semestre 2/POO/UNIDAD 2/EVA2_4_EJEMPLO_HERENCIA/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EVA2_4_EJEMPLO_HERENCIA 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'EVA2_4_EJEMPLO_HERENCIA 1.0-SNAPSHOT API'
